@@ -1,0 +1,150 @@
+[
+  {"type":"directory","name":"/home","contents":[
+    {"type":"directory","name":"bil","size":"12K","time":"Nov 15 15:42","contents":[
+      {"type":"file","name":"11.txt","size":"7","time":"Dec 14  2020"},
+      {"type":"file","name":"15-11-2021_08-38-37.zip","size":"8.9M","time":"Nov 15 12:43"},
+      {"type":"directory","name":"Desktop","size":"4.0K","time":"Sep 21 09:13","contents":[
+        {"type":"file","name":"oskol_camera1.xspf","size":"580","time":"Aug  4 08:29"}
+      ]},
+      {"type":"directory","name":"Documents","size":"4.0K","time":"Oct 12 08:46","contents":[
+        {"type":"directory","name":"!ZEISS","size":"4.0K","time":"Apr  7  2021","contents":[
+          {"type":"file","name":"Calypso Advanced Training Rev[1]. 4.0.pdf","size":"7.8M","time":"Jan 28  2021"},
+          {"type":"file","name":"Calypso AutoRun Training.pdf","size":"1.6M","time":"Jan 12  2007"},
+          {"type":"file","name":"Calypso_Basic_3_6_e_SZ_001.pdf","size":"7.7M","time":"Jan 28  2021"},
+          {"type":"file","name":"FILTERS.pdf","size":"388K","time":"Jan 28  2021"},
+          {"type":"directory","name":"read","size":"4.0K","time":"Apr  7  2021","contents":[
+            {"type":"file","name":"BA_BP26SE_REV_3_0_en.pdf_ru.pdf","size":"11M","time":"Jan 28  2021"}
+          ]},
+          {"type":"directory","name":"Новые инструкции на русском","size":"4.0K","time":"Jan 22  2021","contents":[
+            {"type":"file","name":"CALYPSO_2014_basis_RU.pdf","size":"38M","time":"Jan 28  2021"},
+            {"type":"file","name":"GEAR_PRO_involute_4_0 RU.pdf","size":"41M","time":"Jan 28  2021"}
+          ]}
+        ]},
+        {"type":"file","name":"1. Обзорный вид.mkv","size":"4.4M","time":"Aug 23 10:21"},
+        {"type":"directory","name":"10","size":"4.0K","time":"Jun  7 18:33","contents":[
+          {"type":"directory","name":"Модуль 10","size":"4.0K","time":"Jun  7 18:33","contents":[
+            {"type":"file","name":"10 Модуль.  Стратегический маркетинг.pdf","size":"93K","time":"Jun  7 16:04"},
+            {"type":"file","name":"c819ca3a77bdd9f90064b9e35b8513fb.jpg","size":"305K","time":"Jun  7 16:08"},
+            {"type":"file","name":"Выбр стратегии.pdf","size":"783K","time":"Jun  7 16:06"},
+            {"type":"file","name":"Калькулятор юнит-экономики от JetStyle зачем он нужен и как пользоваться.pdf","size":"1.4M","time":"Jun  7 16:09"},
+            {"type":"file","name":"Основные инструменты интернет-маркетинга.pdf","size":"2.3M","time":"Jun  7 16:06"},
+            {"type":"file","name":"Поворачиваем UNIT-экономику для интернет магазина или производства.pdf","size":"705K","time":"Jun  7 16:08"},
+            {"type":"file","name":"Практика внутреннего маркетинга.pdf","size":"1.2M","time":"Jun  7 16:05"},
+            {"type":"file","name":"Практические примеры стратегий.pdf","size":"41K","time":"Jun  7 16:06"},
+            {"type":"file","name":"Прибыльность бизнеса.pdf","size":"1.2M","time":"Jun  7 16:05"},
+            {"type":"file","name":"Стратегический контроль реализации маркетингового плана.pdf","size":"375K","time":"Jun  7 16:07"},
+            {"type":"file","name":"Стратегия маркетинга.pdf","size":"541K","time":"Jun  7 16:05"},
+            {"type":"file","name":"Формирование стратегии.pdf","size":"548K","time":"Jun  7 16:07"},
+            {"type":"file","name":"Цели маркетинговой деятельности.pdf","size":"347K","time":"Jun  7 16:05"},
+            {"type":"file","name":"Юнит Экономика.pdf","size":"2.5M","time":"Jun  7 16:08"}
+          ]}
+        ]},
+        {"type":"file","name":"111.png","size":"91K","time":"Jul 22 15:25"},
+        {"type":"file","name":"2. ЛМ Обзорный вид.mkv","size":"2.5M","time":"Aug 23 15:39"},
+        {"type":"file","name":"2019_Bookmatter_FoundationsOfLibvirtDevelopmen.pdf","size":"762K","time":"Mar 18  2020"},
+        {"type":"file","name":"3. ЛМ детально.mkv","size":"5.1M","time":"Aug 24 09:32"},
+        {"type":"file","name":"4. Сушилка воды.mkv","size":"2.9M","time":"Aug 25 10:44"},
+        {"type":"file","name":"5. Порошковая камера.mkv","size":"5.8M","time":"Aug 25 12:46"},
+        {"type":"file","name":"6. Сушилка порошка.mkv","size":"3.6M","time":"Aug 25 14:55"},
+        {"type":"file","name":"7. Жидкая окраска.mkv","size":"4.0M","time":"Aug 26 10:48"},
+        {"type":"file","name":"8. Камера жидкой окраски.mkv","size":"6.6M","time":"Aug 26 10:53"},
+        {"type":"file","name":"9. Сушилка лака.mkv","size":"3.5M","time":"Aug 25 14:17"},
+        {"type":"directory","name":"Books","size":"20K","time":"Oct 13  2020","contents":[
+          {"type":"file","name":"2-e-izdanie-soderzhanie.pdf","size":"84K","time":"Sep 14  2020"},
+          {"type":"file","name":"250 лучших опытов и экспериментов.pdf","size":"100M","time":"Sep 14  2020"},
+          {"type":"file","name":"2975.pdf","size":"5.2M","time":"Sep 14  2020"},
+          {"type":"file","name":"4843816_marshrut__167__avtobusa_.pdf","size":"362K","time":"Sep 14  2020"},
+          {"type":"directory","name":"A Song of Ice and Fire","size":"4.0K","time":"Sep 14  2020","contents":[
+            {"type":"file","name":"a_clash_of_kings.fb2","size":"2.1M","time":"Sep 14  2020"},
+            {"type":"file","name":"a_dance_with_dragons.fb2","size":"2.8M","time":"Sep 14  2020"},
+            {"type":"file","name":"a_feast_for_crows.fb2","size":"2.1M","time":"Sep 14  2020"},
+            {"type":"file","name":"a_game_of_thrones.fb2","size":"1.9M","time":"Sep 14  2020"},
+            {"type":"file","name":"a_storm_of_swords.fb2","size":"2.5M","time":"Sep 14  2020"}
+          ]},
+          {"type":"file","name":"AirBrush_20191014013712.jpg","size":"1.4M","time":"Sep 15  2020"},
+          {"type":"file","name":"Albahari J., Albahari B. - C# 7.0 in a Nutshell, 7th Edition - 2018.pdf","size":"8.8M","time":"Sep 14  2020"},
+          {"type":"file","name":"Den_Simmons__Giperion.fb2","size":"1.8M","time":"Sep 14  2020"},
+          {"type":"directory","name":"Dr. Stoune","size":"4.0K","time":"Nov 29  2020","contents":[
+            {"type":"directory","name":"Том 09","size":"4.0K","time":"Sep 14  2020","contents":[
+              {"type":"file","name":"Dr_Stone_ch_071[RSC].rar","size":"12M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_072[RSC].rar","size":"9.1M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_073[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_074[RSC].rar","size":"9.0M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_075[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_076[RSC].rar","size":"9.4M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_077[RSC].rar","size":"18M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_078[RSC].rar","size":"9.8M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_079[RSC].rar","size":"9.9M","time":"Sep 14  2020"}
+            ]},
+            {"type":"directory","name":"Том 10","size":"4.0K","time":"Sep 14  2020","contents":[
+              {"type":"file","name":"Dr_Stone_ch_080[RSC].rar","size":"9.8M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_081[RSC].rar","size":"9.6M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_082[RSC].rar","size":"9.4M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_083[RSC].rar","size":"19M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_084[RSC].rar","size":"9.5M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_085[RSC].rar","size":"10M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_086[RSC].rar","size":"9.6M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_087[RSC].rar","size":"9.2M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_088[RSC].rar","size":"9.3M","time":"Sep 14  2020"}
+            ]},
+            {"type":"directory","name":"Том 11","size":"4.0K","time":"Sep 14  2020","contents":[
+              {"type":"file","name":"Dr_Stone_ch_089[RSC].rar","size":"15M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_090[RSC].rar","size":"19M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_091[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_092[RSC].rar","size":"17M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_093[RSC].rar","size":"9.6M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_094[RSC].rar","size":"19M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_095[RSC].rar","size":"18M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_096[RSC].rar","size":"9.5M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_097[RSC].rar","size":"9.1M","time":"Sep 14  2020"}
+            ]},
+            {"type":"directory","name":"Том 12","size":"4.0K","time":"Sep 14  2020","contents":[
+              {"type":"file","name":"Dr_Stone_ch_098[RSC].rar","size":"14M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_099[RSC].rar","size":"13M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_100[RSC].rar","size":"14M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_101[RSC].rar","size":"9.2M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_102[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_103[RSC].rar","size":"12M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_104[RSC].rar","size":"14M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_105[RSC].rar","size":"9.7M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_106[RSC].rar","size":"12M","time":"Sep 14  2020"}
+            ]},
+            {"type":"directory","name":"Том 13","size":"4.0K","time":"Sep 14  2020","contents":[
+              {"type":"file","name":"Dr_Stone_ch_107[RSC].rar","size":"12M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_108[RSC].rar","size":"16M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_109[RSC].rar","size":"13M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_110[RSC].rar","size":"12M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_111[RSC].rar","size":"19M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_112[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_113[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_114[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_115[RSC].rar","size":"15M","time":"Sep 14  2020"}
+            ]},
+            {"type":"directory","name":"Том 14","size":"4.0K","time":"Sep 14  2020","contents":[
+              {"type":"file","name":"Dr_Stone_ch_116[RSC].rar","size":"12M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_117[RSC].rar","size":"13M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_118[RSC].rar","size":"14M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_119[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_120[RSC].rar","size":"14M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_121[RSC].rar","size":"12M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_122[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_123[RSC].rar","size":"10M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_124[RSC].rar","size":"11M","time":"Sep 14  2020"}
+            ]},
+            {"type":"directory","name":"Том 15","size":"4.0K","time":"Sep 14  2020","contents":[
+              {"type":"file","name":"Dr_Stone_ch_125[RSC].rar","size":"9.4M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_126[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_127[RSC].rar","size":"21M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_128[RSC].rar","size":"10M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_129[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_130[RSC].rar","size":"13M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_131[RSC].rar","size":"12M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_132[RSC].rar","size":"11M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_133[RSC].rar","size":"16M","time":"Sep 14  2020"}
+            ]},
+            {"type":"directory","name":"Том 16","size":"4.0K","time":"Sep 14  2020","contents":[
+              {"type":"file","name":"Dr_Stone_ch_134[RSC].rar","size":"15M","time":"Sep 14  2020"},
+              {"type":"file","name":"Dr_Stone_ch_135[RSC].rar","size":"14M","time":"Sep 14  2020"}
+            ]}
+          ]},
+          }]}]
